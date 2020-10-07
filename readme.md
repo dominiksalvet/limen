@@ -14,7 +14,7 @@ Limen processor was initiated in 2015 and was later used within [my high school 
 
 The microarchitecture itself is rather simple and straightforward – no pipelining involved. Feel free to look around the source code!
 
-> Did you know that [Limen Alpha](https://github.com/dominiksalvet/limen_alpha) is its dual-core successor?
+> Did you know that [Limen Alpha](https://github.com/dominiksalvet/limen-alpha) is its dual-core successor?
 
 ## Useful Resources
 
