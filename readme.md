@@ -16,6 +16,10 @@ The microarchitecture itself is rather simple and straightforward – no pipelin
 
 > Did you know that [Limen Alpha](https://github.com/dominiksalvet/limen-alpha) is its dual-core successor?
 
+## Machine Code
+
+If you are curious how the machine code of Limen looks like, browse the [collection of such programs](sw).
+
 ## Useful Resources
 
 * [support.md](support.md) – questions, answers, help
